@@ -18,6 +18,36 @@ Have a look at this <a
 href="https://photos.app.goo.gl/MNcw7C8SHzAKwfWeA" target="_blank" rel="noopener noreferrer">video clip</a> I took at one of the starting lines two years ago!
 
 Warmly,<br>
-<span style="font-family: 'Allura', cursive; font-size: 2em;">
-Jimmy</span><br>
-(the dad)
+<style>
+@keyframes fadeInSignature {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 0.85; transform: translateY(0); }
+}
+
+.signature {
+  font-family: 'Allura', cursive;
+  font-size: 2em;
+  /* color: #444; */
+  /* text-align: right; */
+  /* margin-top: 2em; */
+  /* border-top: 1px solid #ccc; */
+  /* padding-top: 1em; */
+  /* opacity: 0.85; */
+  animation: fadeInSignature 1.2s ease-out forwards;
+}
+.sigcomment {
+    opacity: 0.5;
+}
+</style>
+<div style="
+  background: url('https://www.transparenttextures.com/patterns/paper-fibers.png');
+  padding: 1em;
+  border-radius: 4px;
+">
+<!-- <span style="font-family: 'Allura', cursive; font-size: 2em;"> sig </span> -->
+<div class="signature">
+Jimmy
+<br>
+</div>
+<div class="sigcomment">(the dad)</div>
+</div>
