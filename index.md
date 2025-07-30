@@ -14,8 +14,8 @@ href="https://jjpmc2025.carrd.co/">https://jjpmc2025.carrd.co/</a>
 
 Of course, donations are welcome, but this time our biggest ask is simply helping others learn about it. Thank you again for being part of this journey&mdash;we couldn't do it without you.
 
-I took this <a
-href="https://photos.app.goo.gl/MNcw7C8SHzAKwfWeA" target="_blank" rel="noopener noreferrer">video clip</a> at one of the start lines two years ago!
+Have a look at this <a
+href="https://photos.app.goo.gl/MNcw7C8SHzAKwfWeA" target="_blank" rel="noopener noreferrer">video clip</a> I took at one of the starting lines two years ago!
 
 Warmly,
 
