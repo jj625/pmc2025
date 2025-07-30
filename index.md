@@ -16,8 +16,6 @@ Of course, donations are welcome, but this time our biggest ask is simply helpin
 
 Have a look at this <a
 href="https://photos.app.goo.gl/MNcw7C8SHzAKwfWeA" target="_blank" rel="noopener noreferrer">video clip</a> I took at one of the starting lines two years ago!
-
-Warmly,<br>
 <style>
 @keyframes fadeInSignature {
   from { opacity: 0; transform: translateY(10px); }
@@ -39,16 +37,8 @@ Warmly,<br>
     opacity: 0.5;
 }
 </style>
-<!-- <div style="
-  background: url('https://www.transparenttextures.com/patterns/paper-fibers.png');
-  padding: 1em;
-  border-radius: 4px;
-"> --> 
-<div>
-<!-- <span style="font-family: 'Allura', cursive; font-size: 2em;"> sig </span> -->
+
+Warmly,<br>
 <div class="signature">
-Jimmy
-<br>
-</div>
+Jimmy<br></div>
 <div class="sigcomment">(the dad)</div>
-</div>
