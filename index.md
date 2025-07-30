@@ -42,4 +42,4 @@ Warmly,<br>
 <span style="font-family: 'Allura', cursive; font-size: 2em;">
 Jimmy</span>
 <br>
-<div class="sigcomment">(the dad)</div>
+<span style="opacity: 0.5;">(the dad)</span>
