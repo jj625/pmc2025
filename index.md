@@ -19,4 +19,6 @@ href="https://photos.app.goo.gl/MNcw7C8SHzAKwfWeA" target="_blank" rel="noopener
 
 Warmly,
 
+<span style="font-family: 'Allura', cursive;">
 Jimmy
+</span>
