@@ -39,6 +39,7 @@ href="https://photos.app.goo.gl/MNcw7C8SHzAKwfWeA" target="_blank" rel="noopener
 </style>
 
 Warmly,<br>
-<div class="signature">
-Jimmy<br></div>
+<span style="font-family: 'Allura', cursive; font-size: 2em;">
+Jimmy</span>
+<br>
 <div class="sigcomment">(the dad)</div>
