@@ -33,17 +33,18 @@ Warmly,<br>
   /* border-top: 1px solid #ccc; */
   /* padding-top: 1em; */
   /* opacity: 0.85; */
-  animation: fadeInSignature 1.2s ease-out forwards;
+  /* animation: fadeInSignature 1.2s ease-out forwards; */
 }
 .sigcomment {
     opacity: 0.5;
 }
 </style>
-<div style="
+<!-- <div style="
   background: url('https://www.transparenttextures.com/patterns/paper-fibers.png');
   padding: 1em;
   border-radius: 4px;
-">
+"> --> 
+<div>
 <!-- <span style="font-family: 'Allura', cursive; font-size: 2em;"> sig </span> -->
 <div class="signature">
 Jimmy
