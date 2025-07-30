@@ -18,5 +18,6 @@ Have a look at this <a
 href="https://photos.app.goo.gl/MNcw7C8SHzAKwfWeA" target="_blank" rel="noopener noreferrer">video clip</a> I took at one of the starting lines two years ago!
 
 Warmly,<br>
-<span style="font-family: 'Allura', cursive; font-size: 1.8em;">
-Jimmy</span> (the dad)
+<span style="font-family: 'Allura', cursive; font-size: 2em;">
+Jimmy</span><br>
+(the dad)
